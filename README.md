@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://browser-extensions-manager-ui-main-bl4zizgrr.vercel.app/)
+- [Live Site URL](https://browser-extensions-manager-ui-main-eta.vercel.app/)
 
 ## My process
 
